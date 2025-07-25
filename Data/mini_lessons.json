@@ -1,0 +1,18 @@
+{
+  "python": [
+    {
+      "title": "Intro to Python Variables",
+      "content": "Variables store values. Example: x = 5 assigns 5 to x."
+    },
+    {
+      "title": "If Statements",
+      "content": "Use if statements to make decisions. Example: if x > 0: print('Positive')"
+    }
+  ],
+  "javascript": [
+    {
+      "title": "Intro to JavaScript Variables",
+      "content": "Use let, const, or var. Example: let x = 5;"
+    }
+  ]
+}

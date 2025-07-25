@@ -1,0 +1,22 @@
+{
+  "python": {
+    "functions": {
+      "pattern": "def\\s+(\\w+)\\s*\\(",
+      "explanation": "Defines a function named \"{}\""
+    },
+    "variables": {
+      "pattern": "(\\w+)\\s*=\\s*.+",
+      "explanation": "Assigns a value to variable \"{}\""
+    }
+  },
+  "javascript": {
+    "functions": {
+      "pattern": "function\\s+(\\w+)\\(",
+      "explanation": "Defines JS function \"{}\""
+    },
+    "variables": {
+      "pattern": "(let|const|var)\\s+(\\w+)\\s*=",
+      "explanation": "Declares variable using \"{}\""
+    }
+  }
+}

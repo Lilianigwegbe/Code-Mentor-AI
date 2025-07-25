@@ -1,0 +1,10 @@
+{
+  "frontend": {
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "advice": "Start with building simple UIs and progress to frameworks like React."
+  },
+  "backend": {
+    "skills": ["Python", "Django", "SQL"],
+    "advice": "Learn server-side logic, database interaction, and APIs."
+  }
+}
